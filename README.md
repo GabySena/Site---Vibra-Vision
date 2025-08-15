@@ -11,4 +11,3 @@
 <h2>Participação:</h2>
 [Catarine Tomaz](https://github.com/tomazzcatarine)
 [Beatriz Marques](https://github.com/biaamarquess)
-
