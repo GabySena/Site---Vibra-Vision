@@ -9,5 +9,5 @@
 <img width="1140" height="637" alt="image" src="https://github.com/user-attachments/assets/85559e75-b446-42bf-80b0-fe6a0333ecb7" />
 
 <h2>Participação:</h2>
-[Catarine Tomaz](https://github.com/tomazzcatarine)
-[Beatriz Marques](https://github.com/biaamarquess)
+[Beatriz Marques](https://github.com/biaamarquess)<br>
+[Catarine Tomaz](https://github.com/tomazzcatarine)<br>
